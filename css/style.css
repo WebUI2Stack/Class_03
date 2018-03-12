@@ -1,0 +1,50 @@
+.mother{
+    
+    min-height: 1500px;
+    width: 1500px;
+    background-color: yellowgreen;
+    margin: 500px auto;
+    position: relative;
+}
+.child1{
+    background-color: red;
+    position: absolute;
+    right: 10px;
+    top:10px;
+}
+.child2{
+    
+    background-color: black;
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+}
+.child3{
+    
+    background-color: blue;
+    position: absolute;
+    right: 10px;
+    bottom: 10px;
+    
+    
+}
+.child4{
+    
+    background-color: deeppink;
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+.child5{
+    
+    background-color: white;
+    position: absolute;
+    top: 550px;
+    left:600px;
+}
+.box{
+    
+    min-height: 300px;
+    width: 300px;
+    border: 2px solid black;
+}
